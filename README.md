@@ -1,6 +1,6 @@
 # Minima
 
-A bare minimum CGI web framework for pascal that supports dynamic routing.
+A bare minimum CGI web framework for pascal that supports (somewhat `¯\_(ツ)_/¯`) dynamic routing.
 It is really minimum and straightforward. No bloat, no unnecessary abstraction.
 Define the routes, show what you want to show.
 That's it, that's all.
